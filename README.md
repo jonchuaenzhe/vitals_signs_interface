@@ -1,4 +1,4 @@
-# EG3301R ECG Application
+# EG3301R: Web-application to Visualise Vitals Signs Data
 This repository houses both the client and server components of the MERN stack.
 
 ## Setting Up
